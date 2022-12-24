@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app</finalName>
+		<finalName>google-app</finalName>
 		
 		<plugins>
 			<plugin>
